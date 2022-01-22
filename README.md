@@ -1,5 +1,5 @@
 # Olive-Tree-Homes
-
+![](Exteriors7891.jpg)
 
 - Created a MySQL database for an apartment complex to manage data for Residents and handle operations 
 - Established business rules considering the business processes for defining entities and relationships
